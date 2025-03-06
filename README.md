@@ -1,6 +1,8 @@
 # Digital-Clock-
 Digital Clock with JS,CSS and HTML
-#HTML
+
+#HTML file
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +20,8 @@ Digital Clock with JS,CSS and HTML
 </body>
 </html>
 
-#Css
+#Css file
+
 body {
     display: flex;
     justify-content: center;
@@ -48,7 +51,8 @@ body {
 }
 
 
-#JS
+#JS file 
+
 function updateClock() {
     let now = new Date();
 
